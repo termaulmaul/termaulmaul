@@ -12,7 +12,7 @@
 
 💬 Ask me about **Redhat RHCSA, Electron, Flutter... or anything [here](https://github.com/termaulmaul/termaulmaul/issues)**
 
-⚡ Fun fact **Don't die before you go to Banda Neira**
+⚡ Fun fact **Make sure to visit Banda Neira before you pass away.**
 
  </div>
 
