@@ -12,7 +12,7 @@
 
 💬 Ask me about **Redhat RHCSA, Electron, Flutter... or anything [here](https://github.com/termaulmaul/termaulmaul/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Don't die before you go to Banda Neira**
 
  </div>
 
