@@ -18,6 +18,12 @@
   <a href="https://credly.com/users/maulana-rafi/badges" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+   <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/termaulmaul"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://patreon.com/hipsterweeds"><img alt="Patreon" title="Patreon" src="https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+<a href="https://github.com/termaulmaul?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/termaulmaul?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/termaulmaul"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/termaulmaul?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </div>
 
 <hr/>
@@ -40,8 +46,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=termaulmaul&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=termaulmaul&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=termaulmaul&theme=dark&hide_border=true&stroke=f53b3b"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=termaulmaul&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=termaulmaul&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
