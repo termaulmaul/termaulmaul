@@ -16,10 +16,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://credly.com/users/maulana-rafi/badges" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=Credly&logoColor=white" target="_blank" />
   </a>
-   <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/termaulmaul"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://patreon.com/hipsterweeds"><img alt="Patreon" title="Patreon" src="https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 <a href="https://github.com/termaulmaul?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/termaulmaul?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
