@@ -13,23 +13,28 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/maulana-rafi-0a0349179/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://credly.com/users/maulana-rafi/badges" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=Credly&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=Credly&logoColor=white" />
   </a>
-  <a href="https://patreon.com/hipsterweeds"><img alt="Patreon" title="Patreon" src="https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-<a href="https://github.com/termaulmaul?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/termaulmaul?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/termaulmaul"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/termaulmaul?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://patreon.com/hipsterweeds">
+    <img alt="Patreon" title="Patreon" src="https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white"/>
+  </a>
+  <a href="https://github.com/termaulmaul?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/termaulmaul?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/>
+  </a>
+  <a href="https://github.com/termaulmaul">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/termaulmaul?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  </a>
 </div>
 
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,flutter,electron,php,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,javascript,typescript,express,firebase,mongodb,docker,java,nextjs,mysql,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=react,flutter,electron,php,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,javascript,typescript,express,firebase,mongodb,docker,java,nextjs,mysql,flask" /><br>
 </div>
 
 <hr/>
@@ -53,5 +58,7 @@
 <hr/>
 
 <div align="center">
-  <a href='patreon.com/hipsterweeds' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://patreon.com/hipsterweeds' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
