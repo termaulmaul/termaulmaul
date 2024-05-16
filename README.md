@@ -8,11 +8,6 @@
   <p>⚡ Fun fact: Make sure to visit Banda Neira before you pass away.</p>
 </div>
 
-[![GitHub issues](https://img.shields.io/github/issues/termaulmaul/termaulmaul)](https://github.com/termaulmaul/termaulmaul/issues)
-[![GitHub forks](https://img.shields.io/github/forks/termaulmaul/termaulmaul)](https://github.com/termaulmaul/termaulmaul/network)
-[![GitHub stars](https://img.shields.io/github/stars/termaulmaul/termaulmaul)](https://github.com/termaulmaul/termaulmaul/stargazers)
-[![GitHub license](https://img.shields.io/github/license/termaulmaul/termaulmaul)](https://github.com/termaulmaul/termaulmaul/blob/main/LICENSE.md)
-
 <div align="center">
   <a href="mailto:hipsterweeds@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
