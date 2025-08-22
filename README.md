@@ -5,9 +5,10 @@
 
 <div align="center">
 
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
-
   <h1>Maulana Rafi Nurdiansyah</h1>
+
+  <!-- Visitor badge moved below name -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
 
   <strong>Software Developer & Sysadmin from Indonesia 🇮🇩</strong>  
   <em>Driven by a passion for building secure, user-centric solutions that create real-world impact.</em>
