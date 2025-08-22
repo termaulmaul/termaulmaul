@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/maulana-rafi-0a0349179/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://credly.com/users/maulana-rafi/badges](https://www.credly.com/users/maulanarafi)" target="_blank">
+  <a href="https://www.credly.com/users/maulanarafi" target="_blank">
     <img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=Credly&logoColor=white" />
   </a>
   <a href="https://patreon.com/hipsterweeds">
