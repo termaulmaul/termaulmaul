@@ -1,0 +1,27 @@
+# GitHub Pages Configuration
+title: Maulana Rafi Nurdiansyah - Portfolio
+description: Software Developer & Sysadmin from Indonesia. Passionate about IoT, System Administration, and AI/ML Architecture.
+author: Maulana Rafi Nurdiansyah
+email: maulana.rafi1717@gmail.com
+
+# Build settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings
+lang: en
+url: "https://termaulmaul.github.io"
+baseurl: "/termaulmaul"
+
+# Social profiles
+social:
+  name: Maulana Rafi Nurdiansyah
+  links:
+    - https://github.com/termaulmaul
+    - https://linkedin.com/in/maulana-rafi-0a0349179/
+
+# Exclude files
+exclude:
+  - README.md
+  - .gitignore

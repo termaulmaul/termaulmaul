@@ -15,6 +15,11 @@
 
   <br/>
 
+  🌐 **[View My Portfolio Website](https://termaulmaul.github.io/termaulmaul/)** ✨  
+  *Modern, animated portfolio showcasing my work and experience*
+
+  <br/>
+
   🎓 <strong>Fresh Graduate in Informatics Engineering, Telkom University</strong>  
   🌱 <strong>Passionate about:</strong> IoT, System Administration, and AI/ML Architecture  
   🏥 <strong>Commissioner at PT. Anugerah Mitrautama Sejahtera</strong>  
@@ -30,6 +35,22 @@
   <a href="https://github.com/termaulmaul" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/termaulmaul?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers" loading="lazy"/></a>
 
 </div>
+
+---
+
+## 🌐 Portfolio Website
+
+Visit my **[modern animated portfolio](https://termaulmaul.github.io/termaulmaul/)** built with vanilla HTML, CSS, and JavaScript featuring:
+
+- ✨ **Modern Animations**: Smooth scroll-triggered animations, typing effects, and particle backgrounds
+- 🎨 **Beautiful Design**: Clean, professional layout with gradient backgrounds and card-based components
+- 📱 **Fully Responsive**: Optimized for all devices from mobile to desktop
+- 🔧 **Interactive Features**: Hover effects, animated counters, and smooth navigation
+- 🎯 **No Dependencies**: Self-contained with emoji icons and custom animations
+- 🌙 **Dark Mode**: Toggle between light and dark themes
+- 🚀 **Fast Loading**: Optimized performance with efficient animations
+
+**Tech Stack**: HTML5, CSS3, JavaScript (ES6+), GitHub Pages
 
 ---
 
