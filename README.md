@@ -122,3 +122,4 @@ I enjoy exploring Indonesian tech communities and discovering local travel gems.
     <img height="64" style="border:0px;height:64px;" src="https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white" border="0" alt="Support me on Patreon" loading="lazy" />
   </a>
 </div>
+
