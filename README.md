@@ -5,81 +5,70 @@
 
 <div align="center">
 
-  <h1>Maulana Rafi Nurdiansyah</h1>
+# Maulana Rafi Nurdiansyah
 
-  <!-- Visitor badge moved below name -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
 
-  <strong>Software Developer & Sysadmin from Indonesia 🇮🇩</strong>  
-  <em>Driven by a passion for building secure, user-centric solutions that create real-world impact.</em>
+**Software Developer & Sysadmin from Indonesia 🇮🇩**  
+*Building secure, user-centric, and impactful digital solutions.*
 
-  <br/>
+---
 
-  🎓 <strong>Fresh Graduate in Informatics Engineering, Telkom University</strong>  
-  🌱 <strong>Passionate about:</strong> IoT, System Administration, and AI/ML Architecture  
-  🏥 <strong>Commissioner at PT. Anugerah Mitrautama Sejahtera</strong>  
-  <em>Delivering Nurse Call, Medical Gas, and SIMRS solutions for hospitals and clinics across Indonesia.</em>
+🎓 **Fresh Graduate – Informatics Engineering, Telkom University**  
+🌱 **Focus Areas:** Cybersecurity, IoT, System Administration, AI/ML Architecture  
+🏥 **Commissioner at PT. Anugerah Mitrautama Sejahtera**  
+*Delivering Nurse Call, Medical Gas, and SIMRS solutions for hospitals across Indonesia.*
 
-  <br/>
+---
 
-  <a href="mailto:maulana.rafi1717@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" loading="lazy" /></a>
-  <a href="https://www.linkedin.com/in/maulana-rafi-0a0349179/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" loading="lazy" /></a>
-  <a href="https://credly.com/users/maulana-rafi/badges" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=Credly&logoColor=white" alt="Credly badges" loading="lazy" /></a>
-  <a href="https://patreon.com/hipsterweeds" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" loading="lazy"/></a>
-  <a href="https://github.com/termaulmaul?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer"><img src="https://custom-icon-badges.demolab.com/github/stars/termaulmaul?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star" alt="GitHub Stars" loading="lazy"/></a>
-  <a href="https://github.com/termaulmaul" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/termaulmaul?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers" loading="lazy"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maulana.rafi1717@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-rafi-0a0349179/)
+[![Credly](https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/maulana-rafi/badges)
+[![Patreon](https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hipsterweeds)
+[![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/termaulmaul?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star)](https://github.com/termaulmaul?tab=repositories&sort=stargazers)
+[![Followers](https://img.shields.io/github/followers/termaulmaul?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/termaulmaul)
 
 </div>
 
 ---
 
-## 🏆 Legacy & Impact
+## 🏆 Professional Highlights
 
-As Commissioner at **PT. Anugerah Mitrautama Sejahtera**, I help deliver technology solutions that improve healthcare quality and efficiency in Indonesia.
+As **Commissioner at PT. Anugerah Mitrautama Sejahtera**, I contribute to advancing healthcare technology adoption across Indonesia.
 
-**Key Solutions:**
-- Nurse Call Systems
-- Medical Gas Installations
-- Code Blue Systems
-- Audio/PA Systems
-- Data Networks
-- SIMRS (Hospital Management Information Systems)
+- **Delivered to 70+ hospitals & clinics** nationwide  
+- **Solutions:** Nurse Call, Medical Gas, Code Blue, Audio/PA, Data Networks, SIMRS  
+- **Impact:** Thousands of medical professionals empowered with reliable healthcare technology
+
+**Notable Clients:** RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Semen Gresik, RS Kartika Pulomas, RSUD Sidoarjo, RS Mata Makassar, RS Omni Cikarang, and many more.
 
 ---
 
-## 📈 Client & Project Highlights
-
-- **70+ hospitals and clinics** served across Indonesia
-
-**Notable Clients:**
-- RSUD Banten
-- RS PELNI Jakarta
-- RS Semen Gersik
-- RS Kartika Pulomas
-- RSUD Sidoarjo
-- RS DADI KELUARGA Ciamis
-- RSCM Jakarta
-- RS Mata Makasar
-- RSUD Abepura Papua
-- RSUD Karawang
-- RSUD Cengkareng
-- RS Ibu dan Anak Hasan Sadikin
-- RS Bunda Kasih Bandung
-- RS Omni Cikarang
-- Klinik Citra Rx Bekasi
-- ...and many more
-
-**Delivered:**
-- Integrated solutions for Nurse Call, Medical Gas, Code Blue, Audio System, Data Network, and SIMRS
-- Contributed to healthcare technology adoption by thousands of medical professionals
-
----
-
-## 🛠️ Languages, Frameworks & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img alt="Stack row 1" src="https://skillicons.dev/icons?i=react,flutter,electron,php,bootstrap,html,css,vscode,github,figma,tailwind,git,r" loading="lazy" />
-  <img alt="Stack row 2" src="https://skillicons.dev/icons?i=nodejs,laravel,python,javascript,typescript,express,firebase,mongodb,docker,java,nextjs,mysql,flask" loading="lazy" />
+
+**Frontend & UI**  
+<img src="https://skillicons.dev/icons?i=react,flutter,electron,html,css,tailwind,bootstrap,figma" height="32" />
+
+**Backend & Databases**  
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,express,python,flask,mysql,mongodb,firebase" height="32" />
+
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,java,typescript,javascript,r" height="32" />
+
+</div>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=termaulmaul&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" alt="Profile Stats" />
+
+<img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=termaulmaul&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+
 </div>
 
 ---
@@ -87,39 +76,28 @@ As Commissioner at **PT. Anugerah Mitrautama Sejahtera**, I help deliver technol
 ## 🐍 Contributions
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" loading="lazy" />
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Collaboration
 
-<div align="center">
-  <img title="GitHub streak stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=termaulmaul&theme=dark&hide_border=true&stroke=f53b3b" loading="lazy"/>
-  <img height="200" title="GitHub profile stats" alt="stats" src="https://github-readme-stats.vercel.app/api?username=termaulmaul&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" loading="lazy">
-  <br/>
-  <img width="325" align="center" title="Top languages" alt="top langs" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=termaulmaul&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" loading="lazy" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-- Open to collaboration, especially in healthcare tech, IoT, and automation.
-- Reach out via [email](mailto:maulana.rafi1717@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maulana-rafi-0a0349179/).
-- You can also open an [issue](https://github.com/termaulmaul/termaulmaul/issues) for technical questions or project ideas.
+- Open to **collaboration** in healthcare tech, IoT, and automation  
+- Contact me via [email](mailto:maulana.rafi1717@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maulana-rafi-0a0349179/)  
+- Or open an [issue](https://github.com/termaulmaul/termaulmaul/issues) for ideas & discussions  
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy exploring Indonesian tech communities and discovering local travel gems.
+Outside tech, I love exploring Indonesian **tech communities** and discovering **local travel gems**. 🌍
 
 ---
 
 <div align="center">
-  <a href="https://patreon.com/hipsterweeds" target="_blank" rel="noopener noreferrer">
-    <img height="64" style="border:0px;height:64px;" src="https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white" border="0" alt="Support me on Patreon" loading="lazy" />
-  </a>
-</div>
 
+💡 *If you find my work helpful, consider supporting me on*  
+[![Patreon](https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hipsterweeds)
+
+</div>
