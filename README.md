@@ -56,21 +56,25 @@ Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Seme
 
 ---
 
-## Core Tech Stack
+## Core Tech Stack (2026)
 
 <div align="center">
 
-**Frontend & Mobile**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,flutter,electron,html,css,tailwind,bootstrap,figma" height="32" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,vite,figma" height="32" />
 
-**Backend & Data**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,express,python,flask,mysql,mongodb,firebase" height="32" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,python,postgres,mysql,redis,prisma" height="32" />
 
-**Infrastructure & Tooling**
+**Infrastructure & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,java,typescript,javascript,r" height="32" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,terraform,linux,git" height="32" />
+
+**AI Engineering**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="32" />
 
 </div>
 
