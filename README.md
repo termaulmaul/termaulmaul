@@ -9,9 +9,9 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
 
-**Software Developer & System Administrator from Indonesia**
+**Fullstack Developer | Systems Administrator | Healthcare Technology Builder**
 
-I build practical software and infrastructure for healthcare operations, automation, and internal business tools.
+I design and deliver end-to-end digital products, from frontend UX and backend APIs to deployment pipelines and production operations.
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maulana.rafi1717@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-rafi-0a0349179/)
@@ -23,28 +23,40 @@ I build practical software and infrastructure for healthcare operations, automat
 
 ---
 
-## About
+## Professional Summary
 
-- Informatics Engineering graduate from Telkom University
+- Informatics Engineering graduate, Telkom University
 - Commissioner at PT. Anugerah Mitrautama Sejahtera
-- Focus areas: cybersecurity, IoT systems, infrastructure operations, and applied AI/ML
-- Interested in software that improves reliability, safety, and workflow quality in real-world environments
+- 70+ healthcare facility deployments supported across Indonesia
+- Specialized in fullstack delivery, system integration, and infrastructure reliability
+
+I focus on shipping production-ready software that is maintainable, secure, and aligned with business operations.
 
 ---
 
-## Professional Experience Snapshot
+## What I Build
 
-At **PT. Anugerah Mitrautama Sejahtera**, I help deliver healthcare technology and supporting systems for hospitals and clinics in Indonesia.
-
-- Deployment support for 70+ healthcare facilities
-- Solution domains: Nurse Call, Medical Gas, Code Blue, Audio/PA, data networks, and SIMRS integration
-- Collaboration with technical and non-technical stakeholders during rollout and maintenance
-
-Selected client references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Semen Gresik, RS Kartika Pulomas, RSUD Sidoarjo, RS Mata Makassar, and RS Omni Cikarang.
+- Fullstack web applications (dashboard, internal tools, business workflow systems)
+- Backend services and API integration for operational platforms
+- Frontend experiences for admin, monitoring, and data-driven decision support
+- Infrastructure and DevOps foundations (deployment, observability, maintenance)
 
 ---
 
-## Core Stack
+## Domain Experience: Healthcare Systems
+
+At **PT. Anugerah Mitrautama Sejahtera**, I contribute to implementation and operational readiness for:
+
+- Nurse Call and Code Blue systems
+- Medical Gas and Audio/PA integration
+- SIMRS-related support and data-network infrastructure
+- Cross-functional rollout with technical and hospital operations teams
+
+Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Semen Gresik, RS Kartika Pulomas, RSUD Sidoarjo, RS Mata Makassar, and RS Omni Cikarang.
+
+---
+
+## Core Tech Stack
 
 <div align="center">
 
@@ -64,12 +76,12 @@ Selected client references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, 
 
 ---
 
-## Featured Focus
+## Engineering Focus
 
-- Healthcare technology systems
-- Internal dashboard and admin tools
-- IoT-assisted operations
-- Security-aware system design
+- Fullstack architecture with strong operational discipline
+- Security-aware software implementation
+- Automation for recurring business and technical workflows
+- Practical AI/ML and IoT integration for real-world use cases
 
 ---
 
@@ -87,7 +99,7 @@ Selected client references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, 
 
 ## Collaboration
 
-I am open to collaboration in healthcare tech, automation, and infrastructure-focused software.
+Open to opportunities and collaborations in fullstack development, healthcare technology, automation, and infrastructure-led product delivery.
 
 - Email: [maulana.rafi1717@gmail.com](mailto:maulana.rafi1717@gmail.com)
 - LinkedIn: [maulana-rafi-0a0349179](https://www.linkedin.com/in/maulana-rafi-0a0349179/)
@@ -97,7 +109,7 @@ I am open to collaboration in healthcare tech, automation, and infrastructure-fo
 
 <div align="center">
 
-If my work is useful to you, support is appreciated.
+If this profile or my projects are helpful, support is appreciated.
 
 [![Patreon](https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hipsterweeds)
 
