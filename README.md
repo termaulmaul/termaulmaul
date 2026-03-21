@@ -70,11 +70,15 @@ Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Seme
 
 **Infrastructure & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,terraform,linux,git" height="32" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,terraform,linux,bash,git,postman" height="32" />
 
 **AI Engineering**
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="32" />
+
+**Data/ML Libraries**
+
+`NumPy` • `Pandas` • `Keras`
 
 </div>
 
