@@ -78,7 +78,9 @@ Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Seme
 
 **Data/ML Libraries**
 
-`NumPy` • `Pandas` • `Keras`
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
 
 </div>
 
