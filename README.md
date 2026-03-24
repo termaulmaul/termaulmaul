@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Maulana Rafi Nurdiansyah
+# Maulana
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
 
