@@ -5,16 +5,16 @@
 
 <div align="center">
 
-# Maulana
+# Maulana Rafi Nurdiansyah
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
 
-**Fullstack Developer | Systems Administrator | Healthcare Technology Builder**
+**QA Automation Engineer · SDET · Capital Markets Systems · AI/ML Observability**
 
-I design and deliver end-to-end digital products, from frontend UX and backend APIs to deployment pipelines and production operations.
+I build test automation, performance validation, and reliability workflows for systems where missed edge cases can become real operational risk.
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maulana.rafi1717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-rafi-0a0349179/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulanarafi/)
 [![Credly](https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/maulana-rafi/badges)
 [![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/termaulmaul?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star)](https://github.com/termaulmaul?tab=repositories&sort=stargazers)
 [![Followers](https://img.shields.io/github/followers/termaulmaul?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/termaulmaul)
@@ -25,59 +25,128 @@ I design and deliver end-to-end digital products, from frontend UX and backend A
 
 ## Professional Summary
 
-- Informatics Engineering graduate, Telkom University
-- Commissioner at PT. Anugerah Mitrautama Sejahtera
-- 70+ healthcare facility deployments supported across Indonesia
-- Specialized in fullstack delivery, system integration, and infrastructure reliability
+- Quality Assurance Automation Engineer focused on capital markets and fintech systems
+- SDET-minded engineer working across test automation, performance testing, CI/CD, and observability
+- RHCSA-certified Linux/System Administration background
+- Experience delivering and supporting 70+ healthcare technology deployments across Indonesia
+- Strong foundation across software engineering, infrastructure, DevOps, IoT, and AI/ML observability
 
-I focus on shipping production-ready software that is maintainable, secure, and aligned with business operations.
-
----
-
-## What I Build
-
-- Fullstack web applications (dashboard, internal tools, business workflow systems)
-- Backend services and API integration for operational platforms
-- Frontend experiences for admin, monitoring, and data-driven decision support
-- Infrastructure and DevOps foundations (deployment, observability, maintenance)
+I focus on building reliable software quality workflows: automated regression coverage, API validation, performance testing, release confidence, and production-aware debugging.
 
 ---
 
-## Domain Experience: Healthcare Systems
+## Current Focus
 
-At **PT. Anugerah Mitrautama Sejahtera**, I contribute to implementation and operational readiness for:
+I am currently focused on **Quality Assurance Automation Engineering** for capital-market systems, especially around:
+
+- End-to-end test automation
+- API and integration testing
+- Performance testing and load validation
+- Regression testing and release gating
+- CI/CD quality pipelines
+- Observability-driven debugging
+- Metrics-based release confidence
+- Trading-system edge cases and production-risk reduction
+
+---
+
+## What I Work With
+
+### QA Automation & Testing
+
+- Playwright for end-to-end testing
+- k6 for performance and load testing
+- Selenium for browser automation coverage
+- Postman/Newman for API validation
+- Regression test design and execution
+- Contract and integration testing patterns
+- Bug reporting, RCA, and defect prevention
+
+### CI/CD & Release Quality
+
+- Jenkins and GitHub Actions
+- Test gates in deployment pipelines
+- Automated test reporting
+- Release validation checklists
+- Flaky test triage
+- Environment health checks
+- Quality signals before production release
+
+### Observability & Reliability
+
+- Grafana dashboards
+- InfluxDB time-series metrics
+- Prometheus monitoring
+- Test telemetry and trend analysis
+- Latency, error rate, and pass/fail metrics
+- Production-aware quality engineering
+
+---
+
+## Domain Experience
+
+### Capital Markets & FinTech Systems
+
+I work on quality workflows for trading and financial systems where reliability, timing, and correctness matter.
+
+Focus areas:
+
+- Trading workflow validation
+- Market-data correctness
+- Session-sensitive behavior
+- Portfolio and transaction integrity
+- API reliability
+- Performance under load
+- Release confidence for fast-moving systems
+
+---
+
+### Healthcare Systems
+
+At **PT. Anugerah Mitrautama Sejahtera**, I contributed to implementation and operational readiness for healthcare technology systems across Indonesia.
+
+Experience includes:
 
 - Nurse Call and Code Blue systems
 - Medical Gas and Audio/PA integration
-- SIMRS-related support and data-network infrastructure
-- Cross-functional rollout with technical and hospital operations teams
+- SIMRS-related support
+- IoT infrastructure
+- Linux server setup and operations
+- Network and deployment support
+- Cloud-native infrastructure using K3s and Proxmox VE
 
 Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Semen Gresik, RS Kartika Pulomas, RSUD Sidoarjo, RS Mata Makassar, and RS Omni Cikarang.
 
 ---
 
-## Core Tech Stack (2026)
+## Core Tech Stack
 
 <div align="center">
 
-**Frontend**
+**QA Automation**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,vite,figma" height="32" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
-**Backend**
+**CI/CD & DevOps**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,python,postgres,mysql,redis,prisma" height="32" />
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,linux,bash,git,ansible" height="32" />
 
-**Infrastructure & DevOps**
+**Observability**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,terraform,linux,bash,git,postman" height="32" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 
-**AI Engineering**
+**Programming & Data**
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,postgres,mysql,redis" height="32" />
+
+**AI/ML**
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="32" />
-
-**Data/ML Libraries**
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
@@ -88,10 +157,13 @@ Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Seme
 
 ## Engineering Focus
 
-- Fullstack architecture with strong operational discipline
-- Security-aware software implementation
-- Automation for recurring business and technical workflows
-- Practical AI/ML and IoT integration for real-world use cases
+- Test automation that catches failures before production
+- Performance validation for critical user and system flows
+- CI/CD quality gates with clear release signals
+- Observability-backed debugging and RCA
+- Reliable infrastructure for test and production environments
+- Practical AI/ML observability and anomaly detection
+- Systems thinking across application, infrastructure, and operations
 
 ---
 
@@ -99,9 +171,9 @@ Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Seme
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=termaulmaul&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" alt="Profile stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=termaulmaul&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
-<img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=termaulmaul&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=termaulmaul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
@@ -109,10 +181,10 @@ Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Seme
 
 ## Collaboration
 
-Open to opportunities and collaborations in fullstack development, healthcare technology, automation, and infrastructure-led product delivery.
+Open to technical conversations and collaboration around QA automation, SDET practices, fintech systems, observability, DevOps, infrastructure reliability, and AI/ML quality workflows.
 
 - Email: [maulana.rafi1717@gmail.com](mailto:maulana.rafi1717@gmail.com)
-- LinkedIn: [maulana-rafi-0a0349179](https://www.linkedin.com/in/maulana-rafi-0a0349179/)
+- LinkedIn: [maulanarafi](https://www.linkedin.com/in/maulanarafi/)
 - Discussion: [Open an issue](https://github.com/termaulmaul/termaulmaul/issues)
 
 ---
