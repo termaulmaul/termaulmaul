@@ -115,7 +115,7 @@ Experience includes:
 - Network and deployment support
 - Cloud-native infrastructure using K3s and Proxmox VE
 
-Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Semen Gresik, RS Kartika Pulomas, RSUD Sidoarjo, RS Mata Makassar, and RS Omni Cikarang.
+Selected healthcare deployment references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Semen Gresik, RS Kartika Pulomas, RSUD Sidoarjo, RSUD Sidoarjo Barat, RSUD Maba Halmahera, RS Paru Jember, RS Bun Kosambi Tangerang, RSUD Pandega Pangandaran, RSUD dr. H. Koesnadi Bondowoso, RSUD Bobong, RS Mata Makassar, and RS Omni Cikarang.
 
 ---
 
