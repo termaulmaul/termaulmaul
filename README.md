@@ -9,15 +9,14 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
 
-**QA Automation Engineer · SDET · Capital Markets Systems · AI/ML Observability**
+**QA Automation Engineer · Performance Engineering · Capital Markets Systems · Trading Infrastructure**
 
-I build test automation, performance validation, and reliability workflows for systems where missed edge cases can become real operational risk.
+Building quality systems for trading platforms where reliability, performance, and correctness directly impact business and financial outcomes.
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maulana.rafi1717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulanarafi/)
-[![Credly](https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/maulana-rafi/badges)
-[![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/termaulmaul?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star)](https://github.com/termaulmaul?tab=repositories&sort=stargazers)
-[![Followers](https://img.shields.io/github/followers/termaulmaul?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/termaulmaul)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge\&logo=gmail\&logoColor=red)](mailto:maulana.rafi1717@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maulanarafi/)
+[![Credly](https://img.shields.io/badge/Credly-FF5722?style=for-the-badge\&logo=credly\&logoColor=white)](https://credly.com/users/maulana-rafi/badges)
+[![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/termaulmaul?color=B8B92B\&style=for-the-badge\&labelColor=959532\&logo=star)](https://github.com/termaulmaul?tab=repositories&sort=stargazers)
 
 </div>
 
@@ -25,97 +24,168 @@ I build test automation, performance validation, and reliability workflows for s
 
 ## Professional Summary
 
-- Quality Assurance Automation Engineer focused on capital markets and fintech systems
-- SDET-minded engineer working across test automation, performance testing, CI/CD, and observability
-- RHCSA-certified Linux/System Administration background
-- Experience delivering and supporting 70+ healthcare technology deployments across Indonesia
-- Strong foundation across software engineering, infrastructure, DevOps, IoT, and AI/ML observability
+* QA Automation Engineer specialising in capital markets, trading systems, and release engineering
+* Builder of test infrastructure, performance validation platforms, and exchange protocol simulators
+* RHCSA-certified engineer with background in software engineering, Linux infrastructure, DevOps, and IoT systems
+* Experience delivering healthcare technology solutions across 70+ hospitals in Indonesia
 
-I focus on building reliable software quality workflows: automated regression coverage, API validation, performance testing, release confidence, and production-aware debugging.
+Currently focused on test automation, performance engineering, release confidence, observability, contract testing, and exchange protocol validation across capital markets systems.
+
+---
+
+## Featured Projects
+
+### Growin QA — API Knowledge Base Explorer
+
+Playwright-based crawler that discovers and catalogs API endpoints across equities, mutual funds, bonds, and eIPO workflows.
+
+Key capabilities:
+
+* Automated API discovery from live browser traffic
+* HAR-to-OpenAPI contract generation
+* Structured API Knowledge Base generation
+* Memory-aware crawling
+* PIN modal state management
+* Tampermonkey-assisted browser exploration
+* Contract-testing workflow integration
+
+---
+
+### Growin Performance Test Framework
+
+Enterprise-grade performance engineering platform built around k6.
+
+Key capabilities:
+
+* 27+ performance test suites
+* Multi-environment execution (SSH, GCP IAP, Docker)
+* Terminal-native TUI (fzf + Go)
+* RBAC and session management
+* Immutable audit logging
+* Environment concurrency controls
+* Automated reporting and alerting
+* Grafana and InfluxDB integration
+* Threshold-gated release validation
+
+---
+
+### IDX Trading Gateway Replica
+
+Replica of the Indonesia Stock Exchange trading gateway implemented using raw TCP sockets.
+
+Protocols:
+
+* OUCH v1.8.0
+* ITCH v1.15.0
+* SoupBinTCP v3.0
+
+Features:
+
+* Matching engine implementation
+* ARA and ARB validation
+* FOK and IOC order handling
+* Auction session simulation
+* Market-data validation
+* Order lifecycle verification
+* React orderbook dashboard
+* WebSocket bridge
 
 ---
 
 ## Current Focus
 
-I am currently focused on **Quality Assurance Automation Engineering** for capital-market systems, especially around:
-
-- End-to-end test automation
-- API and integration testing
-- Performance testing and load validation
-- Regression testing and release gating
-- CI/CD quality pipelines
-- Observability-driven debugging
-- Metrics-based release confidence
-- Trading-system edge cases and production-risk reduction
+* QA automation for capital markets platforms
+* API discovery and contract testing
+* Performance engineering and release validation
+* Exchange protocol validation (OUCH, ITCH, SoupBinTCP)
+* Market-data integrity verification
+* Local AI-assisted QA workflows
+* Observability-driven debugging and RCA
+* Structured engineering knowledge management
 
 ---
 
 ## What I Work With
 
-### QA Automation & Testing
+### Quality Engineering
 
-- Playwright for end-to-end testing
-- k6 for performance and load testing
-- Selenium for browser automation coverage
-- Postman/Newman for API validation
-- Regression test design and execution
-- Contract and integration testing patterns
-- Bug reporting, RCA, and defect prevention
+* Playwright
+* k6
+* API testing
+* Contract testing
+* Integration testing
+* Regression automation
+* End-to-end testing
+* Root-cause analysis
 
-### CI/CD & Release Quality
+### Performance Engineering
 
-- Jenkins and GitHub Actions
-- Test gates in deployment pipelines
-- Automated test reporting
-- Release validation checklists
-- Flaky test triage
-- Environment health checks
-- Quality signals before production release
+* Load testing
+* Stress testing
+* Throughput validation
+* Latency analysis
+* Capacity assessment
+* Performance observability
 
-### Observability & Reliability
+### CI/CD & Release Engineering
 
-- Grafana dashboards
-- InfluxDB time-series metrics
-- Prometheus monitoring
-- Test telemetry and trend analysis
-- Latency, error rate, and pass/fail metrics
-- Production-aware quality engineering
+* Jenkins
+* GitHub Actions
+* Docker
+* Linux
+* Release validation
+* Quality gates
+* Automated reporting
+* Environment orchestration
+
+### Observability
+
+* Grafana
+* InfluxDB
+* Prometheus
+* Telemetry analysis
+* Reliability engineering
+* Trend monitoring
 
 ---
 
 ## Domain Experience
 
-### Capital Markets & FinTech Systems
+### Capital Markets & Trading Systems
 
-I work on quality workflows for trading and financial systems where reliability, timing, and correctness matter.
+I work on quality engineering and validation workflows for trading and financial systems where reliability, timing, and correctness matter.
 
 Focus areas:
 
-- Trading workflow validation
-- Market-data correctness
-- Session-sensitive behavior
-- Portfolio and transaction integrity
-- API reliability
-- Performance under load
-- Release confidence for fast-moving systems
+* Exchange protocol validation (OUCH, ITCH, SoupBinTCP)
+* Trading order lifecycle verification
+* Market-data integrity validation
+* Contract testing and API governance
+* Performance and latency testing
+* Release confidence and production-risk reduction
+* Trading workflow automation
+* Exchange integration testing
 
 ---
 
-### Healthcare Systems
+### Healthcare Technology
 
-At **PT. Anugerah Mitrautama Sejahtera**, I contributed to implementation and operational readiness for healthcare technology systems across Indonesia.
+Delivered and supported healthcare technology deployments across 70+ hospitals in Indonesia.
 
 Experience includes:
 
-- Nurse Call and Code Blue systems
-- Medical Gas and Audio/PA integration
-- SIMRS-related support
-- IoT infrastructure
-- Linux server setup and operations
-- Network and deployment support
-- Cloud-native infrastructure using K3s and Proxmox VE
+* Nurse Call systems
+* Code Blue systems
+* Medical Gas integration
+* Audio and Public Address systems
+* SIMRS-related support
+* IoT infrastructure
+* Linux server administration
+* Network deployment and support
+* K3s infrastructure
+* Proxmox VE environments
 
-Selected healthcare deployment references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Semen Gresik, RS Kartika Pulomas, RSUD Sidoarjo, RSUD Sidoarjo Barat, RSUD Maba Halmahera, RS Paru Jember, RS Bun Kosambi Tangerang, RSUD Pandega Pangandaran, RSUD dr. H. Koesnadi Bondowoso, RSUD Bobong, RS Mata Makassar, and RS Omni Cikarang.
+Selected references include RSCM Jakarta, RSUD Banten, RS PELNI Jakarta, RS Semen Gresik, RS Kartika Pulomas, RSUD Sidoarjo, RSUD Sidoarjo Barat, RSUD Maba Halmahera, RS Paru Jember, RS Bun Kosambi Tangerang, RSUD Pandega Pangandaran, RSUD dr. H. Koesnadi Bondowoso, RSUD Bobong, RS Mata Makassar, and RS Omni Cikarang.
 
 ---
 
@@ -123,33 +193,33 @@ Selected healthcare deployment references include RSCM Jakarta, RSUD Banten, RS 
 
 <div align="center">
 
-**QA Automation**
+### Quality Engineering
 
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
-**CI/CD & DevOps**
+### Programming
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,go,python,react" height="32" />
+
+### CI/CD & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,linux,bash,git,ansible" height="32" />
 
-**Observability**
+### Observability
 
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 
-**Programming & Data**
+### Trading Protocols
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,postgres,mysql,redis" height="32" />
+OUCH • ITCH • SoupBinTCP • Raw TCP • WebSocket
 
-**AI/ML**
+### AI-Assisted Engineering
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="32" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+Local LLMs • Apple Silicon • exo • Test Triage • RCA Drafting • Semantic Validation
 
 </div>
 
@@ -157,13 +227,14 @@ Selected healthcare deployment references include RSCM Jakarta, RSUD Banten, RS 
 
 ## Engineering Focus
 
-- Test automation that catches failures before production
-- Performance validation for critical user and system flows
-- CI/CD quality gates with clear release signals
-- Observability-backed debugging and RCA
-- Reliable infrastructure for test and production environments
-- Practical AI/ML observability and anomaly detection
-- Systems thinking across application, infrastructure, and operations
+* Test infrastructure and automation platforms
+* Performance validation at scale
+* Production-risk reduction
+* Release confidence and quality gates
+* Observability-backed debugging
+* Trading systems reliability
+* Contract testing and API governance
+* Systems thinking across software, infrastructure, and operations
 
 ---
 
@@ -181,18 +252,28 @@ Selected healthcare deployment references include RSCM Jakarta, RSUD Banten, RS 
 
 ## Collaboration
 
-Open to technical conversations and collaboration around QA automation, SDET practices, fintech systems, observability, DevOps, infrastructure reliability, and AI/ML quality workflows.
+Open to discussions around:
 
-- Email: [maulana.rafi1717@gmail.com](mailto:maulana.rafi1717@gmail.com)
-- LinkedIn: [maulanarafi](https://www.linkedin.com/in/maulanarafi/)
-- Discussion: [Open an issue](https://github.com/termaulmaul/termaulmaul/issues)
+* QA Automation
+
+* Performance Engineering
+
+* Capital Markets Technology
+
+* Trading Systems
+
+* Exchange Protocols
+
+* Observability
+
+* DevOps
+
+* Linux Infrastructure
+
+* AI-Assisted Quality Engineering
+
+* Email: [maulana.rafi1717@gmail.com](mailto:maulana.rafi1717@gmail.com)
+
+* LinkedIn: https://www.linkedin.com/in/maulanarafi/
 
 ---
-
-<div align="center">
-
-If this profile or my projects are helpful, support is appreciated.
-
-[![Patreon](https://img.shields.io/badge/-Patreon-ff7389?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hipsterweeds)
-
-</div>
